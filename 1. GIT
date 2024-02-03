@@ -23,7 +23,7 @@ CVCS: Centralized version control system
 we can store code on single repos.
 ex: Svn
 
-STAGES OF GIT:
+STAGES OF GIT:-
 Working directory: we write our code here.
 staging area: we track our code here.
 repo: we store our tracked code here. (.git)
